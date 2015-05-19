@@ -7,5 +7,5 @@
 }
 .minutes::before,
 .seconds::before {
-	content: ":";
+	content: ": ";
 }
